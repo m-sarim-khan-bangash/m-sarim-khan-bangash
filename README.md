@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sarim Khan Bangash</h1>
-<h3 align="center">A passionate Frontend developer from Pakistan</h3>
+<h3 align="center">MERN Stack Developer | Innovator in Tech Development| Tech Explorer</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" >
 
 - 🌱 I’m currently learning **Backend Technologies**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Firebase**
+- 💬 Ask me about **HTML, CSS, JavaScript, Firebase, React JS, Next JS**
 
 - 📫 How to reach me **bangashsarim@gmail.com**
 

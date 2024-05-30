@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sarim Khan Bangash</h1>
 <h3 align="center">MERN Stack Developer | Innovator in Tech Development| Tech Explorer</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m-sarim-khan-bangash&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" >
 
 - 🌱 I’m currently learning **Backend Technologies**

@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Technologies**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Firebase, React JS, Next JS**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Firebase, React JS, Redux, Next JS**
 
 - 📫 How to reach me **bangashsarim@gmail.com**
 

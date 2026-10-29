@@ -74,16 +74,6 @@ I also work with cloud infrastructure, payment integrations, caching systems, an
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-sarim-khan-bangash&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-sarim-khan-bangash&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
 ---
 
 ### 🤝 Connect With Me

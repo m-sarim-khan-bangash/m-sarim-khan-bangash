@@ -1,24 +1,100 @@
-<h1 align="center">Hi 👋, I'm Muhammad Sarim Khan Bangash</h1>
-<h3 align="center">REACT JS Developer | Tech Explorer</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m-sarim-khan-bangash&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" >
 
-- 🌱 I’m currently learning **Backend Technologies**
+<div align="center">
 
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Firebase, React JS, Redux, Next JS**
+# Hi, I'm Muhammad Sarim Khan Bangash 👋
 
-- 📫 How to reach me **bangashsarim@gmail.com**
+### Full-Stack Developer | MERN Stack | Backend & Cloud Engineering
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad sarim khan bangash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad sarim khan bangash" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad sarim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad sarim" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammadsarim14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadsarim14" height="30" width="40" /></a>
-</p>
+Building scalable web applications, reliable backend systems, and modern digital experiences.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=m-sarim-khan-bangash&label=Profile%20Views&color=0e75b6&style=flat)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-sarim-khan-bangash&show_icons=true&locale=en&layout=compact" alt="m-sarim-khan-bangash" /></p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a **Full-Stack Developer** specializing in the MERN stack, with hands-on experience building modern web applications, RESTful APIs, backend services, and cloud-based solutions.
+
+My primary focus is developing **scalable, secure, and maintainable applications** using technologies like React, Next.js, Node.js, NestJS, Express.js, and PostgreSQL.
+
+I also work with cloud infrastructure, payment integrations, caching systems, and AI-powered features.
+
+- 💻 Full-Stack Development with **React, Next.js, Node.js & NestJS**
+- ⚙️ Backend Engineering, REST APIs & Microservices
+- 🗄️ Database Design with **PostgreSQL, MongoDB & Redis**
+- ☁️ Cloud Infrastructure using **AWS & Google Cloud**
+- 💳 Payment Integration with **Stripe**
+- 🤖 AI Features & Integrations using **OpenAI APIs**
+- 🚀 Passionate about performance, clean architecture, and building production-ready products
+- 📫 Reach me at **bangashsarim@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend Development**
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,materialui&perline=9)
+
+**Backend Development**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi&perline=9)
+
+**Databases & Caching**
+
+![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,firebase&perline=9)
+
+**Cloud, DevOps & Infrastructure**
+
+![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,nginx,linux,githubactions,vercel&perline=9)
+
+**Tools & Other Technologies**
+
+![Tools](https://skillicons.dev/icons?i=git,github,postman,figma,vscode,prisma&perline=9)
+
+**Integrations & Services**
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-333333?style=for-the-badge)
+
+---
+
+### 🚀 What I Work On
+
+- **Full-Stack Web Applications:** Modern, responsive applications with React, Next.js, and TypeScript.
+- **Backend Systems:** Scalable APIs, authentication, authorization, and business logic using NestJS, Node.js, and Express.
+- **Database Architecture:** Relational and NoSQL databases, schema design, query optimization, and caching.
+- **Cloud & Deployment:** Hosting, containerization, infrastructure configuration, and production deployments.
+- **Payments & Subscriptions:** Stripe payment flows, checkout, webhooks, and subscription management.
+- **AI Integrations:** OpenAI-powered features, automation, and intelligent application workflows.
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-sarim-khan-bangash&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-sarim-khan-bangash&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bangashsarim@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammadsarim14)
+
+---
+
+<div align="center">
+
+**Building products that are fast, scalable, and made to last.**
+
+</div>
